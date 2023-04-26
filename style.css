@@ -1,0 +1,50 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.conteudo {
+    background-color: #8fa6ac;
+    padding: 2% 0%;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 4em;
+}
+
+input {
+    padding: 10px;
+    border: 2px solid #03546d;
+    border-radius: 5px;
+    width: 230px;
+    margin-bottom: 8px;
+}
+
+button {
+    padding: 10px;
+    width: 250px;
+    font-family: 'Krona One';
+    font-size: 16px;
+    color: #035b6c;
+    border: 2px solid #1a74d3;
+}
+
+.qual-funcionario {
+    font-size: 36px;
+    color: #044c62;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mensagem-sucesso {
+    font-size: 16px;
+    background-color: #a7c957;
+    color: #386641;
+}
+
+.mensagem-incorreta {
+    font-size: 16px;
+    background-color: #f28482;
+    color: #d90429;
+}
+
+
